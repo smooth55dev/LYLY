@@ -1,7 +1,3 @@
-Certainly! Here's the translation of the provided text into English:
-
----
-
 ### LYLY Printing Data Creation Command
 
 #### Preparing the PHP Environment
