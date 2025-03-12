@@ -1,2 +1,6 @@
 1.csv
 log.txt
+/download
+/draft
+/temp
+include/vendor/tecnickcom/tcpdf
